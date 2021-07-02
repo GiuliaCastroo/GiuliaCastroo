@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning :programação
 - 💞️ I’m looking to collaborate on : qualquer projeto que eu possa ajudar :)
 - 📫 How to reach me : me mande uma mensagem ou um e-mail
-
+- e-mail maju.nogueir3.castr3@gmail.com
