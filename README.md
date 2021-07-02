@@ -1,6 +1,6 @@
 -  👋 Hi, I’m @GiuliaCastroo
-- 👀 I’m interested in : aprender  sobre software e Hardware , para decidir qual área da  tecnologia  eu vou seguir
-- 🌱 I’m currently learning :programação
-- 💞️ I’m looking to collaborate on : qualquer projeto que eu possa ajudar :)
-- 📫 How to reach me : me mande uma mensagem ou um e-mail
-- e-mail maju.nogueir3.castr3@gmail.com
+- 👀 I’m interested in : learn as much as I can about everything and decide which area of technology I should go :) ... but I also like to draw
+- 🌱 I’m currently learning :programming
+- 💞️ I’m looking to collaborate on: anything i can help :)
+- 📫 How to reach me : send me an email
+< e-maiil: maju.nogueir3.castr3@gmail.com -->
