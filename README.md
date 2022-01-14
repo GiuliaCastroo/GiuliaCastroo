@@ -1,6 +1,11 @@
--  👋 Hi, I’m @GiuliaCastroo
-- 👀 I’m interested in : learn as much as I can about everything and decide which area of technology I should go :) ... but I also like to draw
-- 🌱 I’m currently learning :programming
-- 💞️ I’m looking to collaborate on: anything i can help :)
-- 📫 How to reach me : send me an email
-< e-maiil: maju.nogueir3.castr3@gmail.com -->
+##  🎇 HI!!! I am Giulia Castroo
+
+
+  - ♥ Estudante de Programação Full-Stack
+  - 🤖Entusiasta de Tecnologia
+  - 👾"A necessidade é a mãe da inovação"
+
+
+  <a href="https://github.com/GiuliaCastroo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiuliaCastroo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=radical"/> </h4>
