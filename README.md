@@ -9,7 +9,7 @@
 
 ##
 <h4 align="center">
-<img align="center"  height="350"  alt="gif-ju" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">
+<img align="center"  height="250"  alt="gif-ju" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">
 
 
 ##
