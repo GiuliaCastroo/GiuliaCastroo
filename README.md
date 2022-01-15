@@ -1,6 +1,8 @@
 ##  🎇 Hi There! I am Giulia Castroo
 
+## ~Welcome To my Profile ~
 
+  
   - ♥ Estudante de Programação Full-Stack
   - 🤖Entusiasta de Tecnologia
   - 👾"A necessidade é a mãe da inovação"
