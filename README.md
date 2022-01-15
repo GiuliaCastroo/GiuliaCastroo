@@ -12,7 +12,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiuliaCastroo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=radical"/> </h4>
                
-  <img align="right" alt="Rafa-pic" height="190" style="border-radius:55px;" src="https://media.giphy.com/media/9xu0njpOh25X1TPz42/giphy.gif">
+  <img align="right" alt="Rafa-pic" height="230"  width="230"  style="border-radius:55px;" src="https://media.giphy.com/media/9xu0njpOh25X1TPz42/giphy.gif">
   
  
 </div>
