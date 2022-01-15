@@ -21,6 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
              
+  <img align="right" alt="Rafa-pic" height="190" style="border-radius:55px;" src="https://media.giphy.com/media/9xu0njpOh25X1TPz42/giphy.gif">
   <svg viewBox="0 0 128 128">
  
  
