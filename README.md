@@ -5,6 +5,10 @@
   - 🤖Entusiasta de Tecnologia
   - 👾"A necessidade é a mãe da inovação"
 
+##
+<h4 align="center">
+<img align="center"  height="350"  alt="gif-ju" src="https://media.giphy.com/media/NKEt9elQ5cR68/giphy.gif">
+
 
 ##
 
