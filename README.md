@@ -1,6 +1,6 @@
 ##  🎇 Hi There! I am Giulia Castroo
 
-## ~Welcome To my Profile ~
+<h1 align="center"> ✨ Welcome To my Profile ✨</h1>
 
   
   - ♥ Estudante de Programação Full-Stack
