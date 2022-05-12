@@ -1,14 +1,15 @@
 
 <h1 align="center"> ✨ Welcome To my Profile ✨</h1>
 
-
+  <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif">
 
 <h3> Hi, I'am Maria Giulia Castro </h3>
   
-  - ♥ Estudante de Programação Full-Stack
-  - 🤖Entusiasta de Tecnologia
-  - 👾"A necessidade é a mãe da inovação"
+  - ♥ Programming student
+  - 🤖I'm currently learning, Python, Angular and React
+  - 👾I love Data Science and Front-end 
 
+ 
 ##
 <h3 id="social">Contact Me</h3>
 <div>
@@ -29,7 +30,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=radical"/> </h4>
                
  ##
-  
+  <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/TLOl2tSYNSZM0KnpcE/giphy.gif">
  <h3>Things I Code With</h3>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
@@ -41,7 +42,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30px"></span>&nbsp;
   
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ 
 </div>
 
 ##
