@@ -31,7 +31,7 @@
                
  ##
   <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/TLOl2tSYNSZM0KnpcE/giphy.gif">
- <h3>Things I Code With</h3>
+ <h3> 🌠Things I Code With 🌠</h3>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
@@ -46,7 +46,7 @@
 </div>
 
 ##
-<h3>Things I am Learning </h3>
+<h3> 🚀 Things I am Learning 🚀</h3>
 
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
