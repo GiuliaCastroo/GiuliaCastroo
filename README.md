@@ -1,7 +1,7 @@
 
 <h1 align="center"> ✨ Welcome To my Profile ✨</h1>
 
-  <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif">
+ <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif">
 
 <h3> Hi, I'am Maria Giulia Castro </h3>
   
