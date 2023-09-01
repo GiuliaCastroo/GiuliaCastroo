@@ -7,8 +7,8 @@
   
   - ♥ Programming student
   - 🤖I'm currently learning, Python, Angular and React
-  - 👾I love Data Science and Front-end 
-
+  - 👾I love Data Science and Front-end
+  - ✨ Student of UX design 
  
 ##
 <h3 id="social">Contact Me</h3>
