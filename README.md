@@ -5,10 +5,10 @@
 
 <h3> Hi, I'am Maria Giulia Castro </h3>
   
-  - ♥ Programming student
-  - 🤖I'm currently learning, Python, Angular and React
-  - 👾I love Data Science and Front-end
-  - ✨ Student of UX design 
+  - Programming student
+  - 🤖I'm currently learning, Python, MySQL and Power BI
+  - 👾I love Data Science and Cybersecurity
+  - ✨ Student of Software engineering 
  
 ##
 <h3 id="social">Contact Me</h3>
@@ -42,8 +42,9 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30px"></span>&nbsp;
+<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></span>&nbsp;
+         
   
  
 </div>
@@ -52,16 +53,16 @@
 <h3> 🚀 Things I am Learning 🚀</h3>
 
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> b</span>&nbsp;
 
  ##
 
  
   
-  
-  ![Snake animation](https://github.com/GiuliaCastroo/GiuliaCastroo/blob/output/github-contribution-grid-snake.svg)
+ 
     
   </div>
   
