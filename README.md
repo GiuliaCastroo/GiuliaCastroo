@@ -33,8 +33,8 @@
 
 <div align="center" >
   <a href="https://github.com/GiuliaCastroo">
-  <img  align="center" height="200m" src="https://github-readme-stats.vercel.app/api?username=GiuliaCastroo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=radical"/> </h4>
+  <img  align="center" height="200m" src="https://github-readme-stats.vercel.app/api?username=GiuliaCastroo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=dracula"/> </h4>
   </div>
     
  ##
@@ -47,44 +47,36 @@
 
 ##
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🌠Things I Code With 🌠</h2></summary>
+  </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,linux,mysql,nodejs,py =14" />
+  </a>
+</p>
 
-
-
-  
-</div>
-
-
-
-
-
- <div>
-
- <h3> 🌠Things I Code With 🌠</h3>
-
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
-<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"> </span>&nbsp;
-</div>       
-  
- 
-</div>
-
-<div>
-  
 ##
 
-<h3> 🚀 Things I am Learning 🚀</h3>
 
-
-<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px"> </span>&nbsp;
-<span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"> </span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
-
- ##
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🚀 Things I am Learning 🚀</h2></summary>
+  </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,postman,ruby =14" />
+  </a>
+</p>
+
+ 
     
 </div>
   
