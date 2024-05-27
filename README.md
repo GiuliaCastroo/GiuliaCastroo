@@ -1,37 +1,36 @@
-![image](https://github.com/GiuliaCastroo/GiuliaCastroo/assets/86813022/e2e6e996-346c-4897-901e-117dd80aae2d)
+
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> ✨ Welcome To my Profile ✨</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif">
 
- <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/Basrh159dGwKY/giphy.gif">
-
-<h3> Hi, I'am Maria Giulia Castro </h3>
+  <h3> Hi, I'am Maria Giulia Castro </h3>
   
   - Programming student
   - 🤖I'm currently learning, Python, MySQL and Power BI
   - 👾I love Data Science and Cybersecurity
-  - ✨ Student of Software engineering 
- 
-##
-<h3 id="social">Contact Me</h3>
-<div>
- 
-  <a href="https://www.linkedin.com/in/maria-giulia-castro-49485a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
- 
+  - ✨ Student of Software engineering
+</div>
 
-   
+ 
+ <div>
+<h3 id="social">Contact Me</h3>
+ </div>
+ <div>
+  <a href="https://www.linkedin.com/in/maria-giulia-castro-49485a1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
 ##
 
 
-
-
   <a href="https://github.com/GiuliaCastroo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiuliaCastroo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=radical"/> </h4>
+  <img  align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=GiuliaCastroo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliaCastroo&layout=compact&langs_count=7&theme=radical"/> </h4>
                
  ##
   <img align="right" alt="My-Pic" height="250"  src="https://media.giphy.com/media/TLOl2tSYNSZM0KnpcE/giphy.gif">
+
  <h3> 🌠Things I Code With 🌠</h3>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
@@ -50,7 +49,6 @@
 
 <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px"> </span>&nbsp;
 <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"> </span>&nbsp;
-<span> <img src="https://img.icons8.com/?size=30&id=qYfwpsRXEcpc&format=png&color=000000" width="30px"> </span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
 
  ##
