@@ -50,7 +50,7 @@
 
 <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30px"> </span>&nbsp;
 <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"> </span>&nbsp;
-<span> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="30px"> </span>&nbsp;
+<span> <img src="https://img.icons8.com/?size=30&id=qYfwpsRXEcpc&format=png&color=000000" width="30px"> </span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
 
  ##
