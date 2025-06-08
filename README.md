@@ -16,7 +16,7 @@
   - 🤖I'm currently learning Data Science and Cybersecurity
   - 🔭 I’m currently working on Itaú Unibanco
   - 💬 Ask me about Python, API's, Git and JavaScript
-  - 🍓Fun fact about me: i was born with a strawberry mark on my arm
+  - 🍓Fun fact about me: i was born with a strawberry mark on my leg
 </div>
 
  ##
